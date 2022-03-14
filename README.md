@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aiman</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt, Graduated Jul-2022 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedaimanhessin&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedaimanhessin" /> </p>
 
